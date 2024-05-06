@@ -1,0 +1,13 @@
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profileImg{
+    width: 200px;
+}
+
+.profileText{
+    margin-left: 15px;
+}
